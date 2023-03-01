@@ -1,0 +1,303 @@
+
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) { 
+    .img-fluid {
+        max-width: 60% !important;
+        height: auto;
+        margin: auto;
+        display: block;
+    }
+    .formbox {
+        display: block;
+    }
+    .innereilds input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .innereilds select {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .innereilds.multiselectwidth {
+        min-width: unset !important;
+        max-width: unset !important;
+    }
+    .dataprice {
+        display: block;
+    }
+    .tabscss {
+        padding: 8px 20px;
+        margin: 0 0 12px 0;
+    }
+    .typebox {
+        display: block;
+    }
+    .socilcard {
+        padding: 8px 5px;
+        margin: 0 0 8px 0;
+    }    
+    .headings h2 {
+        font-size: 38px;
+        line-height: 20px;
+        padding: 0px 0 40px;
+    }
+    .checkform input {
+        width: 100%;
+    }
+    .paywallet {
+        display: block;
+    }
+    .paycard {
+        border: 1px solid #00000066;
+        border-radius: 4px;
+        width: 100%;
+        margin: 0 0 10px 0px;
+    }
+    .initrequest button {
+        margin: 10px 2px;
+    }
+    .iconList3 img {
+        width: 20px;
+        height: 20px;
+        margin: 10px 5px 0;
+        object-fit: contain;
+    }
+    .invite-right img {
+        width: 60%;
+        margin: auto;
+        display: block;
+        padding-top: 50px;
+    }        
+    .inter-secd {
+        display: block;
+    }
+    .dclass {
+        width: 100%;
+    }
+    .checkoutsec {
+        box-shadow: 0px 4px 50px rgb(0 0 0 / 8%);
+        border-radius: 30px;
+        border: 0px solid #fff;
+        background: #ffffff;
+    }
+    .btmtext {
+        text-align: center;
+        padding: 0 0 25px 0;
+    }
+    .flexdiv {
+        display: block;
+    }    
+    .initrequest input {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        padding: 5px 10px;
+        border-radius: 3px;
+        width: 100%;
+        min-width: unset;
+        border: 1px solid #00000063;
+    }
+    .menufooter ul li a {
+        color: #fff;
+        padding: 7px 10px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .copyright p {
+        margin: 0;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        text-align: center;
+        color: #fff;
+        padding: 16px 5px;
+        line-height: 20px;
+    }
+    
+    .borderbtm {
+        padding: 15px 0;
+    }
+    .head-text h1 {
+        line-height: 54px;
+        font-size: 34px;
+    }
+    .imgleftv {
+        margin: 0 20px 0 0px;
+    }   
+    .listofdomain {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 50px rgb(0 0 0 / 8%);
+        border-radius: 30px;
+        padding: 20px 20px;
+        margin: 50px 0;
+    }
+    .headings-domain h4 {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 28px;
+        line-height: 72px;
+        margin: 0;
+        color: #000;
+    }    
+    .domainlistname {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .domian-inner h3 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        margin: 0 0 15px;
+    }
+    .domainbtmouter {
+        border-top: 1px solid #B3B3B3;
+        padding-top: 15px;
+        margin-top: 15px;
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .alertsec {
+        display: block;
+        gap: 30px;
+        margin-top: 15px;
+    }
+    
+    .alrtmsg {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }                 
+  
+        
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 991px) { 
+    .img-fluid {
+        max-width: 85% !important;
+        height: auto;
+        margin: auto;
+        display: block;
+    }
+    .borderbtm {
+        padding: 20px 0;
+    }
+    .head-text h1 {
+        line-height: 58px;
+        font-size: 38px;
+    }
+    .domainlistname {
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .domian-inner h3 {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        margin: 0 0 15px;
+    }
+    .domainbtmouter {
+        border-top: 1px solid #B3B3B3;
+        padding-top: 15px;
+        margin-top: 15px;
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .alertsec {
+        display: block;
+        gap: 30px;
+        margin-top: 15px;
+    }
+    
+    .alrtmsg {
+        display: flex;
+        align-items: center;
+        margin-bottom: 15px;
+    }              
+    
+    
+}
+@media screen and (min-device-width: 320px) and (max-device-width: 991px) { 
+    .head-text {
+        padding: 50px 0;
+    }    
+
+
+    .head-text p {
+        font-size: 18px;
+    }
+    .formbtn {
+        background-color: transparent;
+        clip-path: unset;
+        padding: 0;
+        border-radius: 0 0 50px 50px;
+    } 
+    .listofdomian {
+        display: block;
+        margin: 20px 0;
+        justify-content: space-between;
+        align-items: center;
+        gap: 15px;
+    }
+    .listsingle {
+        background: #FFFFFF;
+        box-shadow: 0px 4px 30px rgb(0 0 0 / 10%);
+        border-radius: 8px;
+        padding: 10px 10px;
+        margin: 0 0 5px;
+    }
+    .listsecond {
+        background: #FFFFFF;
+        width: 100%;
+        border: 1px solid #1B9E49;
+        box-shadow: 0px 4px 50px rgb(0 0 0 / 8%);
+        border-radius: 8px;
+        text-align: center;
+        padding: 20px 20px;
+        margin: 0 0 5px;
+    }   
+}
+@media screen and (min-device-width: 992px) and (max-device-width: 1200px) { 
+    .formbtn {
+        padding: 20px 18px;
+    }
+
+}
+@media screen and (min-device-width: 768px) and (max-device-width: 1200px) { 
+
+    .formbox {
+        display: block;
+    }
+    .innereilds {
+        display: inline-block;
+        width: 48%;
+        margin-top: 20px;
+        margin: 15px 4px 0;
+    }
+    .innereilds input {
+        width: 100%;
+        /* margin-bottom: 15px; */
+    }
+    .innereilds select {
+        width: 100%;
+        /* margin-bottom: 15px; */
+    }
+    .verifyfull {
+        width: 48%;
+    }
+    .verifydiv2 {
+        width: 100%;
+        display: flex;
+    }
+    .innereilds.multiselectwidth {
+        min-width: unset !important;
+        max-width: unset !important;
+    }
+}

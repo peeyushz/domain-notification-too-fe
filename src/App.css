@@ -1,0 +1,30 @@
+.chip{
+    background: #1b9e49 !important;
+}
+
+.highlightOption {
+    background: #1b9e49 !important;
+}
+.searchWrapper input{
+    display: flex;
+}
+.searchWrapper{
+    /* display: flex !important; */
+}
+.searchWrapper {
+    padding: 0 !important;
+}
+.innereilds.multiselectwidth {
+    min-width: 200px;
+    max-width: 200px;
+}
+.search-wrapper .chip {
+    padding: 4px 10px;
+    margin: 5px 5px 0;
+}
+.multiSelectContainer input {
+    background: transparent;
+    border: none;
+    margin: 2px 1px !important;
+    width: 100%;
+}
